@@ -69,3 +69,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+## Create an Online Quiz Platform Web-site.
+
+### Description: Develop an online quiz platform that allows users to create, take, and share quizzes.
++ Set up the project structure and design a user-friendly quiz creation interface.
+- Implement user authentication for quiz creators and quiz takers.
++ Create features for quiz creation, taking, scoring, and sharing.
+-Add social sharing functionality for quiz results.
+
+### Features: 
+User authentication, quiz creation, quiz taking, score tracking, and sharing functionality.
+### Skills: 
+User authentication, quiz management, data tracking, social sharing.
+## Page of the project
+![Frontpage](https://github.com/shyam343/Quizz-app/assets/84222697/0c5e8ad6-1b88-40d5-b18f-8be9273b6779)
